@@ -1,0 +1,127 @@
+body {
+    background-color:#5D4F84;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #6E4980;
+    padding: 15px;
+    
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+.button {
+    
+}
+header {
+    background-color: #A9A1BE;
+    padding: 15px;
+}
+nav {
+
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color:red;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+.menu  {
+    width: 369px;
+    height: 334px;
+    background-color: #717C9B;
+    padding: 20px;
+    
+
+}
+main img {
+    width: 282px;
+    height: 201px;
+    margin:0 auto;
+}
+.menu2 {
+    width: 369px;
+    height: 334px;
+    background-color: #717C9B;
+    padding: 20px;
+   
+}
+.menu3  {
+    width: 369px;
+    height: 334px;
+    background-color: #717C9B;
+    padding: 20px;
+    
+}
+.menu4  {
+    width: 369px;
+    height: 334px;
+    background-color: #717C9B;
+    padding: 20px;
+    
+}
+.menusec {
+    
+    gap: 20px;
+    width: 1258px;
+    height: 1687px;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 20px;
+
+    
+}
+.menu p {
+    text-align: center;
+    
+    
+}
+main p {
+    text-align: center;
+    
+}
+
+    
+
+
+h3 {
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: #6E4980;
+}
